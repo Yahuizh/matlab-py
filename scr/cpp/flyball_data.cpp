@@ -1,0 +1,12 @@
+#include "flyball.h"
+
+flyball::P_flyball_T flyball::flyball_P{
+
+  0.0,
+
+  7.0,
+
+  -30.0,
+
+  0.0
+};
